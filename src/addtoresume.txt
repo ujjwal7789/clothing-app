@@ -1,0 +1,13 @@
+Vending Machine
+
+A complete vending machine for use of both buyers and sellers.
+
+Buyers can add items to basket, view the status of their basket at any time.
+
+Owners can restock inventory, get recorded transaction history
+
+Other desirable features the app comes with are:
+
+Updatation of inventory post every purchase
+Automatic assignment of product id to new products
+Not listing out of stock items
